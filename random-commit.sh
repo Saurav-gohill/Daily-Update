@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE="random-log.txt"
+FILE="random-log2.txt"
 
 # Generate a random number between 0–10 (change max as you want)
 COMMITS=$(( RANDOM % 7 ))
